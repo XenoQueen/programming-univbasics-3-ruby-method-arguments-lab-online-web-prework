@@ -1,4 +1,10 @@
+def introduction(name, language)
+name = "Maika"
+language = "Ruby"
+  puts "Hello #{name}. We heard you are a great #{language} programmer."
+end
 
+introduction("Maika", "Ruby")
 
 
 
