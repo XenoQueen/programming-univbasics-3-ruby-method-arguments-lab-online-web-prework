@@ -8,7 +8,7 @@ introduction
 def introduction(name, language)
 name = "Maika"
 language = "Ruby"
-  puts "Hello #{name}. We heard you are a great #{language} programmer."
+  puts "Hi my name is #{name} and I am learning to program in #{language}."
 end
 
 introduction("Maika", "Ruby")
