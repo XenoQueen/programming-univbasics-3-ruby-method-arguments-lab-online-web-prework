@@ -1,4 +1,4 @@
-def #introduction
+def introduction
 name ; "Maika"
   puts "Hi my name is #{name}."
 end
