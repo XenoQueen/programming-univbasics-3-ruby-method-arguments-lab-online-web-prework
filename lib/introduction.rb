@@ -17,9 +17,9 @@ def introduction(name, language = "computer")
   puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
  
-introduction("MaikaRuby")
+introduction("Maika", "Ruby")
  
-introduction("Maria")
+introduction("Amy")
 
 
 
