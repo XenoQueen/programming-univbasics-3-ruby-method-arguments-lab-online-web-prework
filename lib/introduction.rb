@@ -1,19 +1,9 @@
 def introduction(name)  
 name = "Maika"
-  puts "Hello my name is Maika."
+  puts "Hi my name is #{name}."
 end
 
 introduction
-
-def introduction(name, language)
-name = "Maika"
-language = "Ruby"
-  puts "Hello #{name}. We heard you are a great #{language} programmer."
-end
-
-introduction("Maika", "Ruby")
-
-
 
 
 
