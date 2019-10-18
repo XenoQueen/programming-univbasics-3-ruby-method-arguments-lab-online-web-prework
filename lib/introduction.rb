@@ -13,7 +13,7 @@ end
 
 introduction("Maika", "Ruby")
 
-def introduction(name, language = "computer")
+def introduction(name, language = "GO")
   puts "Hi my name is #{name} and I am learning to program in #{language}."
 end
  
